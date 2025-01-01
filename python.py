@@ -1,4 +1,3 @@
-import pandas as pd
 df = pd.read_csv('ClimateChangeData.csv')
 # part 1
 #How many records are included in the dataframe?
